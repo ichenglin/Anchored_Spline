@@ -1,5 +1,5 @@
 import { Coordinates } from "./objects/coordinates";
-import { CubicSpline } from "./objects/cubic_spline";
+import { CubicSpline } from "./splines/cubic_spline";
 
 const anchors: Coordinates[] = [
     new Coordinates(1, 1),

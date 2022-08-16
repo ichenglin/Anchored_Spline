@@ -1,5 +1,5 @@
-import { Coordinates } from "./coordinates";
-import { Matrix } from "./matrix";
+import { Coordinates } from "../objects/coordinates";
+import { Matrix } from "../objects/matrix";
 
 export class CubicSpline {
 
